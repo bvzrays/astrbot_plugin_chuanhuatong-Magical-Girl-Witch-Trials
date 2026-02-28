@@ -12,8 +12,7 @@ AstrBot 插件astrbot_plugin_chuanhuatong模板组
 <img width="801" height="244" alt="image" src="https://github.com/user-attachments/assets/fe7492a0-9b42-4355-af99-9342d7f68b06" />
 
 
-# --------------------------
-
+---
 
 将角色立绘文件夹
 
